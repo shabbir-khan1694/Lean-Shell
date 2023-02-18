@@ -1,1 +1,1 @@
-# Lean-Shell
+# Learn-Shell
